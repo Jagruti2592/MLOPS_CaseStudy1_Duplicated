@@ -8,4 +8,4 @@ accelerate==0.33.*
 pytest
 tox
 fastapi==0.111.0 
-pydantic==2.*
+pydantic
