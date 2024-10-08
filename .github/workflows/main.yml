@@ -17,5 +17,5 @@ jobs:
       - name: Push to hub
         env:
           TokenVariable: ${{ secrets.HF_ACTION_TOKEN }}
-        run: git push https://jagruti25:$TokenVariable@https://huggingface.co/spaces/Jagruti25/CaseStudy1_Duplicated 
+        run: git push https://Jagruti25:$TokenVariable@https://huggingface.co/spaces/Jagruti25/CaseStudy1_Duplicated 
       
